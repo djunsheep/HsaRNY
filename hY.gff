@@ -1,0 +1,10 @@
+##gff-version 3
+##date 2024-10-25
+#
+# Manually edited human Y RNA gff3 file by reference of RefSeq and NCBI information
+# paired with fasta file
+# github.com/djunsheep
+NR_004391.1_chr7    .    ncRNA    148987136    148987248    .    -    .    ID=6084;Name=RNY1;Alias=NR_004391.1;Description=Ro60-associated_Y1;
+NR_004392.1_chr7    .    ncRNA    148983755    148983856    .    +    .    ID=6085;Name=RNY3;Alias=NR_004392.1;Description=Ro60-associated_Y3;
+NR_004393.1_chr7    .    ncRNA    148963315    148963410    .    +    .    ID=6086;Name=RNY4;Alias=NR_004393.1;Description=Ro60-associated_Y4;
+NR_001571.2_chr7    .    ncRNA    148941488    148941571    .    +    .    ID=6090;Name=RNY5;Alias=NR_001571.2;Description=Ro60-associated_Y5;
