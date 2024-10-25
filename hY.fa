@@ -1,6 +1,7 @@
-; Manually edited human Y RNA by reference of RefSeq and NCBI information
+; Manually edited human Y RNA fasta file by reference of RefSeq and NCBI information
+; paired with gff3 file
 ; github.com/djunsheep
-; 20241025
+; 2024-10-25
 >NR_004391.1 Homo_sapiens_RNA Ro60-associated_Y1 RNY1 GeneID=6084 chr7 NC_000007.14:c148987248-148987136 ncRNA
 GGCTGGTCCGAAGGTAGTGAGTTATCTCAATTGATTGTTCACAGTCAGTTACAGATCGAACTCCTTGTTCTACTCTTTCCCCCCTTCTCACTACTGCACTTGACTAGTCTTTT
 >NR_004392.1 Homo_sapiens_RNA Ro60-associated_Y3 RNY3 GeneID=6085 chr7 NC_000007.14:148983755-148983856 ncRNA
